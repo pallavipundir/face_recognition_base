@@ -142,7 +142,7 @@ numpy==1.16.2
 oauthlib==1.0.3
 onboard==1.2.0
 oneconf==0.3.9
-opencv-contrib-python==4.0.0.21
+opencv-contrib-python==4.1.1.26
 packaging==17.1
 pandas==0.24.1
 pandas-compat==0.1.1
