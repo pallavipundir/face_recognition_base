@@ -156,7 +156,7 @@ pdftotext==2.1.1
 peepdf==0.4.2
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==3.2.0
+Pillow==9.0.1
 Pint==0.9
 piston-mini-client==0.7.5
 plac==0.9.6
