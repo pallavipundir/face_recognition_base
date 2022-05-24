@@ -250,7 +250,7 @@ srsly==0.0.5
 system-service==0.3
 tempora==1.14
 tensorboard==1.13.1
-tensorflow==1.13.1
+tensorflow==2.6.4
 tensorflow-estimator==1.13.0
 termcolor==1.1.0
 terminado==0.8.1
